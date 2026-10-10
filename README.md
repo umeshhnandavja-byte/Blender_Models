@@ -4,8 +4,8 @@ This Repo Contains Blender Models
 ---
 ## Models
 
-[Weapons](#weapons)\
-    [1. Tensa Zangetsu](#tensa-zangetsu)
+* [Weapons](#weapons)\
+    1. [Tensa Zangetsu](#tensa-zangetsu)
 
 ---
 
